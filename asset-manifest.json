@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/code1sprint/static/css/main.f25fa5e2.css",
+    "main.js": "/code1sprint/static/js/main.76a03b32.js",
+    "static/js/453.05d922bf.chunk.js": "/code1sprint/static/js/453.05d922bf.chunk.js",
+    "static/media/img.jpeg": "/code1sprint/static/media/img.d5677f9a93bd922e39be.jpeg",
+    "static/media/Dana-Regular.ttf": "/code1sprint/static/media/Dana-Regular.10dc22ea454185542b3d.ttf",
+    "static/media/Dana-DemiBold.ttf": "/code1sprint/static/media/Dana-DemiBold.12bf5ff7f8c1e09c40b2.ttf",
+    "static/media/Dana-Bold.ttf": "/code1sprint/static/media/Dana-Bold.b5ec83d192270f62421f.ttf",
+    "static/media/logo.svg": "/code1sprint/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/code1sprint/index.html",
+    "main.f25fa5e2.css.map": "/code1sprint/static/css/main.f25fa5e2.css.map",
+    "main.76a03b32.js.map": "/code1sprint/static/js/main.76a03b32.js.map",
+    "453.05d922bf.chunk.js.map": "/code1sprint/static/js/453.05d922bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f25fa5e2.css",
+    "static/js/main.76a03b32.js"
+  ]
+}
