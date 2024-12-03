@@ -1,0 +1,12 @@
+.accordion-item p {
+  height: 0;
+  overflow: hidden;
+  transition: padding 0.3s ease, opacity 0.3s ease;
+  opacity: 0;
+}
+
+.accordion-item .active {
+  height: max-content;
+  opacity: 1;
+  padding: 20px;
+}

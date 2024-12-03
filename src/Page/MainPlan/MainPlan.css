@@ -1,0 +1,105 @@
+.line {
+  background: rgb(207, 187, 52);
+  background: radial-gradient(
+    circle,
+    #29b6f6 30%,
+    rgba(88, 84, 84, 0) 100%
+  );
+}
+
+.lin2 {
+  background: rgb(207, 187, 52);
+  background: linear-gradient(
+    273deg,
+    #29b6f6 40%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+.line3 {
+  background: rgb(207, 187, 52);
+  background: linear-gradient(
+    20deg,
+    #29b6f6 40%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+.plan-about-overlay {
+  z-index: 0;
+  background: rgb(102, 88, 88);
+  background: linear-gradient(
+    0deg,
+    rgba(25, 25, 25, 1) 70%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "grid-item1 grid-item1 grid-item2"
+    "grid-item3 grid-item3 grid-item3"
+    "grid-item4 grid-item5 grid-item5";
+}
+
+.grid-item {
+  background-image: url("/public/image/img.jpeg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
+
+.grid-item1 {
+  grid-area: grid-item1;
+}
+.grid-item2 {
+  grid-area: grid-item2;
+}
+.grid-item3 {
+  grid-area: grid-item3;
+}
+.grid-item4 {
+  grid-area: grid-item4;
+}
+.grid-item5 {
+  grid-area: grid-item5;
+}
+
+.plan-future-wrapper {
+  background: rgb(25, 25, 25);
+  background: -moz-linear-gradient(
+    180deg,
+    rgba(25, 25, 25, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    180deg,
+    rgba(25, 25, 25, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  background: linear-gradient(
+    180deg,
+    rgba(25, 25, 25, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#191919",endColorstr="#000000",GradientType=1);
+}
+
+.faq-wrapper {
+  background: rgb(0, 0, 0);
+  background: -moz-linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(31, 31, 31, 1) 67%
+  );
+  background: -webkit-linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(31, 31, 31, 1) 67%
+  );
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(31, 31, 31, 1) 67%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#1f1f1f",GradientType=1);
+}

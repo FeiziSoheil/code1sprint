@@ -1,0 +1,7 @@
+.skills-wrapper{
+    background: rgb(31,31,31);
+background: -moz-linear-gradient(180deg, rgba(31,31,31,1) 25%, rgba(25,25,25,1) 100%);
+background: -webkit-linear-gradient(180deg, rgba(31,31,31,1) 25%, rgba(25,25,25,1) 100%);
+background: linear-gradient(180deg, rgba(31,31,31,1) 25%, rgba(25,25,25,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1f1f1f",endColorstr="#191919",GradientType=1);
+}

@@ -1,0 +1,8 @@
+.plan-wrapper{
+    background: rgb(25,25,25);
+    background: -moz-linear-gradient(180deg, rgba(25,25,25,1) 62%, rgba(0,0,0,0.6688726515997023) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(25,25,25,1) 62%, rgba(0,0,0,0.6688726515997023) 100%);
+    background: linear-gradient(180deg, rgba(25,25,25,1) 62%, rgba(0,0,0,0.6688726515997023) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#191919",endColorstr="#000000",GradientType=1);
+}
+
