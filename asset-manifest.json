@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/code1sprint/static/css/main.60779ad6.css",
-    "main.js": "/code1sprint/static/js/main.49bb70ed.js",
+    "main.css": "/code1sprint/static/css/main.74d40eae.css",
+    "main.js": "/code1sprint/static/js/main.d5dc5a1b.js",
     "static/js/453.05d922bf.chunk.js": "/code1sprint/static/js/453.05d922bf.chunk.js",
     "static/media/Dana-Regular.ttf": "/code1sprint/static/media/Dana-Regular.10dc22ea454185542b3d.ttf",
     "static/media/Dana-DemiBold.ttf": "/code1sprint/static/media/Dana-DemiBold.12bf5ff7f8c1e09c40b2.ttf",
     "static/media/Dana-Bold.ttf": "/code1sprint/static/media/Dana-Bold.b5ec83d192270f62421f.ttf",
     "index.html": "/code1sprint/index.html",
-    "main.60779ad6.css.map": "/code1sprint/static/css/main.60779ad6.css.map",
-    "main.49bb70ed.js.map": "/code1sprint/static/js/main.49bb70ed.js.map",
+    "main.74d40eae.css.map": "/code1sprint/static/css/main.74d40eae.css.map",
+    "main.d5dc5a1b.js.map": "/code1sprint/static/js/main.d5dc5a1b.js.map",
     "453.05d922bf.chunk.js.map": "/code1sprint/static/js/453.05d922bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60779ad6.css",
-    "static/js/main.49bb70ed.js"
+    "static/css/main.74d40eae.css",
+    "static/js/main.d5dc5a1b.js"
   ]
 }
