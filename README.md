@@ -49,7 +49,8 @@ Welcome to **Code1Sprint**, a website designed for showcasing modern and profess
 ## Screenshots
 
 ### Home Page
-![Home Page]((https://github.com/user-attachments/assets/f0639b8e-3002-4c8b-87b5-13bb859de7ae)
+![Home Page]((![p2](https://github.com/user-attachments/assets/f0639b8e-3002-4c8b-87b5-13bb859de7ae)
+)
 )
 
 ### Services Section
